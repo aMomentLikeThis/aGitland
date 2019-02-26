@@ -13,3 +13,7 @@ def add(a, b):
     print(add)
 
 add(1,12)
+
+def shout(hihi)
+    print("shout")
+    
